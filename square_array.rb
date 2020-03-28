@@ -3,3 +3,4 @@ def square_array(array)
     element = element.to_i
     new_array <<  element**
 end
+end
